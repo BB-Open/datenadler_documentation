@@ -1,1 +1,1 @@
-# documentation
+# Documentation of the Datenadler Architecture
